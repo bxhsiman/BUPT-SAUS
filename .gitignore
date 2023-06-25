@@ -1,0 +1,4 @@
+# 忽略MRS配置
+/.settings/
+# 忽略MRS编译文件
+/obj/
